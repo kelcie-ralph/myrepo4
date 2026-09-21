@@ -2,3 +2,5 @@
 Chapter 15 of Happy Git with R
 
 This is a line from RStudio. 
+
+This line was added using GitHub. 
